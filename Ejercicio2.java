@@ -5,6 +5,8 @@
  * En el primer caso se imprimira "Test, valor 2 = 4"
  * En el segundo caso se imprimira "4 # 49.78"
  */
+
+ 
 class Ejercicio2 {
     public static void main(String[] args) {
         int valor1, valor2;

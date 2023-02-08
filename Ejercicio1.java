@@ -5,6 +5,8 @@
  * En el segundo caso "a" tendra el valor de 3 y "b" tendra el valor de 8
  * En el tercer caso "a" tendra el valor de 7 y "b" tendra el valor de 8 
  */
+
+ 
 class Ejercicio1 {
     public static void main(String[] args) {
         int a,b;
